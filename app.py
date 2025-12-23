@@ -77,7 +77,7 @@ if button1:
 
     # ソルバーの設定
     client = FixstarsClient()
-    client.token = '' # アクセストークンを入力
+    client.token = 'AE/xfLtmnhm923nuQsyyfe5xLVqsS3jgo3J' # アクセストークンを入力
     client.parameters.outputs.duplicate = True
     client.parameters.outputs.num_outputs = 0
     client.parameters.timeout = timedelta(milliseconds=1000)
